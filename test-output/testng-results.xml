@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72" started-at="2016-06-15T02:05:02Z" finished-at="2016-06-15T02:05:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72" started-at="2016-06-15T02:05:02Z" finished-at="2016-06-15T02:05:02Z">
+      <class name="svngit1.snvcode1">
+        <test-method status="PASS" signature="svntest()[pri:0, instance:svngit1.snvcode1@6a2bcfcb]" name="svntest" duration-ms="35" started-at="2016-06-14T22:05:02Z" finished-at="2016-06-14T22:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- svntest -->
+      </class> <!-- svngit1.snvcode1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
